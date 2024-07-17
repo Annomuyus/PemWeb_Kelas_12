@@ -1,0 +1,15 @@
+Selasa,16-07-2024
+
+BELAJAR MATERI OOP PHP
+
+1. demo 
+aktor 2 -> user &admin
+
+bagian admin : membuat galeri
+konsep MVC
+                   M = Model
+                   V = View
+                   C = Controller
+
+PAGE/SITE -> Login(Email & Password), Register(Name,Email,Password,Confirm Password),Index for User(Postingan[bisa intract{Like dan Comment}])
+	      Index for Admin(CRUD untuk Postingan[id,Judul,Caption,kategori,dan foto])
