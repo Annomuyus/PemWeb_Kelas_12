@@ -1,0 +1,1 @@
+Dalam Constructor,ada ciri khas/properti yang membedakannya dengan constructor lainnya.
