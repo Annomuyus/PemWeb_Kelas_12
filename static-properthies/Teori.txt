@@ -1,0 +1,15 @@
+- Static = nilai tidak berubah/tetap.
+
+- cara memanggil value static pada class adalah dengan echo 
+NamaClass::$variable.
+
+- Pakai "echo self::$variable;" untuk memanggil variabel static
+dalam function.(dalam pengertian pak hasu=>keyword self untuk
+mengakses properti / function kepunyaan sendiri).
+
+- extends adalah keyword untuk mewarisi...
+
+- Pakai "echo parent::$variable;" untuk memanggil variabel static
+dalam function.(dalam pengertian pak hasu=>keyword parent untuk
+mengakses properti / function kepunyaan parentClass ketika dilakukan pewarisan oleh childClass).
+
