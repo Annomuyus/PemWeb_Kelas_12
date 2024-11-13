@@ -1,3 +1,0 @@
-Depedency => Kebutuhan/Ketergantungan
-Injection => Menyuntik/Memasukkan
-Depedency Injection => Ketergantungan data yang dimasukkan == Memasukkan data tanpa di extends
